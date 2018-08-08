@@ -1,0 +1,2 @@
+This is my first commit through command line
+Just for testing purpose
